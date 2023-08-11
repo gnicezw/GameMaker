@@ -1,0 +1,12 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Obj_Asteroid","order":1,"path":"objects/Obj_Asteroid/Obj_Asteroid.yy",},
+    {"name":"Spr_Asteroid_Huge","order":3,"path":"sprites/Spr_Asteroid_Huge/Spr_Asteroid_Huge.yy",},
+    {"name":"Spr_Asteroid_Medium","order":2,"path":"sprites/Spr_Asteroid_Medium/Spr_Asteroid_Medium.yy",},
+    {"name":"Spr_Asteroid_Small","order":1,"path":"sprites/Spr_Asteroid_Small/Spr_Asteroid_Small.yy",},
+    {"name":"Spr_Bullet","order":4,"path":"sprites/Spr_Bullet/Spr_Bullet.yy",},
+    {"name":"Obj_Bullet","order":2,"path":"objects/Obj_Bullet/Obj_Bullet.yy",},
+    {"name":"Font1","order":15,"path":"fonts/Font1/Font1.yy",},
+  ],
+}
