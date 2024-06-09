@@ -35,7 +35,9 @@
   "resources": [
     {"id":{"name":"Spr_Ship","path":"sprites/Spr_Ship/Spr_Ship.yy",},},
     {"id":{"name":"Obj_Asteroid","path":"objects/Obj_Asteroid/Obj_Asteroid.yy",},},
+    {"id":{"name":"Obj_debris","path":"objects/Obj_debris/Obj_debris.yy",},},
     {"id":{"name":"Spr_Asteroid_Huge","path":"sprites/Spr_Asteroid_Huge/Spr_Asteroid_Huge.yy",},},
+    {"id":{"name":"Spr_debris","path":"sprites/Spr_debris/Spr_debris.yy",},},
     {"id":{"name":"Obj_Ship","path":"objects/Obj_Ship/Obj_Ship.yy",},},
     {"id":{"name":"Spr_Asteroid_Medium","path":"sprites/Spr_Asteroid_Medium/Spr_Asteroid_Medium.yy",},},
     {"id":{"name":"Spr_Asteroid_Small","path":"sprites/Spr_Asteroid_Small/Spr_Asteroid_Small.yy",},},

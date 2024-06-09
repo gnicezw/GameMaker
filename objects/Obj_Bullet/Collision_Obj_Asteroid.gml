@@ -8,8 +8,10 @@ instance_destroy();
 //also destroy the target asteroid
 with(other)
 {
-	instance_destroy();
+	//instance_destroy();
+	direction = direction - 180; 
 	//query how big this asteroid was and split it to smaller chunks
+	/**
 	if(sprite_index == Spr_Asteroid_Huge)
 	{
 		repeat(2) //create 2 smaller asteroids
@@ -18,13 +20,13 @@ with(other)
 			//make the new asteroids mediuim sized
 			new_asteroid.sprite_index = Spr_Asteroid_Medium;
 		}
-	}
+	} //if medium asteroid then create 2 small asteroids
 	else if(sprite_index = Spr_Asteroid_Medium)
 	{
 		repeat(2)
 		{
 			var new_asteroid=instance_create_layer(x,y,"Instances", Obj_Asteroid);
 			new_asteroid.sprite_index = Spr_Asteroid_Small;
-		}
-	}
+		} 
+	}**/
 }
